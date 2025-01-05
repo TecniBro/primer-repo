@@ -1,4 +1,6 @@
-a = 1
-b= 3
+nombre = "mario"
+apellido = "basabe"
 
-print (a+b);
+saludo = "hola " + nombre + " " + apellido + " ¿como estas ?"
+print (saludo)
+
